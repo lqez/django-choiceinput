@@ -23,6 +23,11 @@ Usage
             choices=(('(iPhone|iPod|iPad)', 'iOS'), ('Android', 'Android'))
         ))
 
+
+Screenshot
+----------
+![django-choiceinput](https://raw.github.com/lqez/pastebin/master/img/django-choiceinput.png "Screenshot of django-choiceinput")
+
         
 Author
 ------
